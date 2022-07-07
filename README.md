@@ -1,2 +1,8 @@
-# Boj
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# 알고리즘 연습 
+
+---
+##투포인터
+>두개의 포인터로 시간복잡도를 최적화
+
+##슬라이딩 윈도우 
+>2개의 포인터로 버위를 지정한다음 범위를 유지한 채로 이동
